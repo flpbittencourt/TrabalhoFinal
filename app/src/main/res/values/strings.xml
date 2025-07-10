@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TrabalhoFinal</string>
+    <string name="no_items_registered">Nenhum item cadastrado</string>
+    <string name="game_of_thrones">Game of Thrones</string>
+    <string name="fantasia">Fantasia</string>
+    <string name="seasons_7">7 Temporadas</string>
+    <string name="friends">Friends</string>
+    <string name="comedy">Comedia</string>
+    <string name="seasons_10">10 Temporadas</string>
+    <string name="include_series">Incluir Série</string>
+    <string name="series_hint">Série</string>
+    <string name="genre_hint">Gênero</string>
+    <string name="seasons_hint">Temporadas</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="ok">OK</string>
+    <string name="about">Sobre</string>
+    <string name="author">Autor:</string>
+    <string name="author_name">Felipe Bittencourt</string>
+    <string name="contact">Contato: felipe@email.com</string>
+    <string name="app_description">Este aplicativo é o trabalho Final da disciplina de Desenvolvimento para Dispositivos Móveis</string>
+    <string name="version">Versão 1.2.5</string>
+    <string name="all_rights_reserved">Todos os direitos reservados</string>
+    <string name="confirm_delete_message">Deseja excluir o item %s?</string>
+    <string name="yes">SIM</string>
+    <string name="no">NÃO</string>
+    <string name="seasons_format">%d Temporadas</string>
+</resources>
